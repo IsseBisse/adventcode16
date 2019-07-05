@@ -1,0 +1,7 @@
+abba[asdf]abbaabba[asdf]abbaabba[asdf]abba
+abba[mnop]qrst
+abcd[bddb]xyyx
+aaaa[qwer]tyui
+ioxxoj[asdfgh]zxcvbn
+abba[asdf]abba
+abba[asdf]abbaabba[asdf]abbaabba[asdf]abba
